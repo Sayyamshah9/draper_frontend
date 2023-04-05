@@ -3,10 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "start": "webpack-dev-server --mode development --open --hot",
     "dev": "vite",
-    "build": "webpack --mode production",
-    "buildVite": "vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
