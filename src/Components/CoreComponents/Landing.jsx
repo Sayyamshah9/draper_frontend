@@ -7,6 +7,9 @@ const Landing = () => {
       <Box>
         <Navbar />
       </Box>
+      <Box>
+        <h1>Landing Page</h1>
+      </Box>
     </>
   );
 };
