@@ -30,7 +30,6 @@ const App = () => {
     <>
       <ThemeProvider theme={theme}>
         <Landing />
-        <></>
       </ThemeProvider>
     </>
   );
