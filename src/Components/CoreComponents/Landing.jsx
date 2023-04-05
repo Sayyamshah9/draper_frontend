@@ -6,7 +6,6 @@ const Landing = () => {
     <>
       <Box>
         <Navbar />
-        <Box></Box>
       </Box>
     </>
   );
