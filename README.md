@@ -18,4 +18,4 @@ Visit https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-pro
 - preview - vite preview
 
 # Clone Repository
-git clone <url>
+git clone https://github.com/Sayyamshah9/draper_frontend.git
