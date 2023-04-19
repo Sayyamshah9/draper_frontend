@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
+import { Box } from "@mui/material";
 
 const Landing = () => {
   return (
@@ -7,7 +8,7 @@ const Landing = () => {
       <Box>
         <Navbar />
       </Box>
-      <Box>
+      <Box sx={{ marginTop: "5rem" }}>
         <h1>Landing Page</h1>
       </Box>
     </>
